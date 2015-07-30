@@ -1,0 +1,39 @@
+{
+  "name": "pay-plugin",
+  "version": "0.0.1",
+  "description": "第三方支付插件",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test",
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/navyxie/pay-plugin.git"
+  },
+  "keywords": [
+    "连连",
+    "易宝",
+    "支付",
+    "提现",
+    "nodejs",
+    "代付"
+  ],
+  "devDependencies": {
+
+  },
+  "dependencies": {
+    "yeepay":"^0.1.4",
+    "wapllpay":"^0.1.3"
+  },
+  "author": {
+    "name": "navyxie"
+  },
+  "license": "ISC",
+  "homepage": "https://github.com/navyxie/pay-plugin",
+  "maintainers": [
+    {
+      "name": "navyxie",
+      "email": "navyxie2010@gmail.com"
+    }
+  ]
+}
