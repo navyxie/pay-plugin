@@ -1,6 +1,6 @@
 {
   "name": "pay-plugin",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "第三方支付插件",
   "main": "index.js",
   "scripts": {
