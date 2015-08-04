@@ -13,6 +13,7 @@
   "keywords": [
     "连连",
     "易宝",
+    "pp钱包",
     "支付",
     "提现",
     "nodejs",
@@ -22,8 +23,9 @@
 
   },
   "dependencies": {
-    "yeepay":"^0.1.5",
-    "wapllpay":"^0.1.3"
+    "yeepay":"^0.1.8",
+    "wapllpay":"^0.1.4",
+    "paypalm":"^0.1.6"
   },
   "author": {
     "name": "navyxie"
