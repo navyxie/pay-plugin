@@ -23,7 +23,7 @@
 
   },
   "dependencies": {
-    "yeepay":"^0.1.8",
+    "yeepay":"^0.2.0",
     "wapllpay":"^0.1.4",
     "paypalm":"^0.2.0"
   },
