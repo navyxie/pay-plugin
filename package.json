@@ -1,6 +1,6 @@
 {
   "name": "pay-plugin",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "第三方支付插件",
   "main": "index.js",
   "scripts": {
@@ -24,7 +24,7 @@
   },
   "dependencies": {
     "yeepay":"^0.2.0",
-    "wapllpay":"^0.1.4",
+    "wapllpay":"^0.2.0",
     "paypalm":"^0.2.0"
   },
   "author": {
